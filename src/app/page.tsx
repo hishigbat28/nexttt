@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          AAAAAAAAAAAAAAAAAAAAAA&nbsp;
+          Энд суралцах агуулга байна&nbsp;
           <code className={styles.code}>src/app/page.tsx</code>
         </p>
         <div>
@@ -49,7 +49,7 @@ export default function Home() {
           <h2>
             Docs <span>-&gt;</span>
           </h2>
-          <p>BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB</p>
+          <p>Бусад зүйлүүдийг эндээс харна уу</p>
         </a>
 
         <a
@@ -61,7 +61,7 @@ export default function Home() {
           <h2>
             Learn <span>-&gt;</span>
           </h2>
-          <p>CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC</p>
+          <p>Энд бас байгаа</p>
         </a>
 
         <a
@@ -73,7 +73,7 @@ export default function Home() {
           <h2>
             Templates <span>-&gt;</span>
           </h2>
-          <p>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</p>
+          <p>Бэлэн Template ашиглахыг хүсвэл энд дарна уу</p>
         </a>
 
         <a
@@ -86,7 +86,7 @@ export default function Home() {
             Deploy <span>-&gt;</span>
           </h2>
           <p>
-            ffffffffffffffffffffffffffff
+            Deploy хийх заавар харахыг хүсвэл энд дарна уу
           </p>
         </a>
       </div>
